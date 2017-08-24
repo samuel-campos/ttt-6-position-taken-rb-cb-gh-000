@@ -7,4 +7,3 @@ def position_taken?(board, index)
     nil
 end
 end
-end
