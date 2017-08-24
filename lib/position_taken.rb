@@ -4,6 +4,6 @@ def position_taken?(board, index)
   elsif ("#{index}" == "X" || "#{index}" == "O")
     true
   else
-    false
+    nil
 end
 end
