@@ -1,7 +1,7 @@
 def position_taken?(board, index)
   if '#{board}' == " "
-    "true"
+    false
   else
-    "false"
+    true
 end
 end
